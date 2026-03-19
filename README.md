@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Lorato 👋
 
-<!--
-**loratopoliten/loratopoliten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about building impactful tech and leveling up in software development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Based in Gaborone, Botswana
+- Currently studying Computer Science
+- Working on improving my coding, systems knowledge, and problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- Artificial Intelligence
+- Backend Development
+- Linux & Systems
+- Tech Entrepreneurship
+
+## 📚 Currently Learning
+- Red Hat Certification
+- Algorithms & Data Structures
+- Bash, C, and Python
+- CCNA
+
+## 🔧 Projects
+Coming soon...
+
+## 📫 Connect with Me
+- LinkedIn: ( later)
