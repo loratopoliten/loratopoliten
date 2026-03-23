@@ -23,4 +23,4 @@ Computer Science student passionate about building impactful tech and leveling u
 Coming soon...
 
 ## 📫 Connect with Me
-- LinkedIn: ( later)
+- LinkedIn: Lorato Polite Ngwako
